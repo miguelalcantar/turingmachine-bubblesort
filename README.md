@@ -24,7 +24,7 @@ This is how the *turing machine* was coded. If we want it to sort any given list
 Therefore, this functions were implemented in the *bubble* files:
 - 
 
-![GitHub Logo](/home/miguel/Downloads/bubble.png)
+![GitHub Logo](/bubble.png)
 Format: ![Alt Text](url)
 
 
