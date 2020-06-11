@@ -22,10 +22,12 @@ Aditionally we consider two more modules:
 This is how the *turing machine* was coded. If we want it to sort any given list of numbers, we should implement the *bubble sort* algorithm, at least for this case.
 
 Therefore, this functions were implemented in the *bubble* files:
-- 
+- init: initialize the tape, moving the header to the first number
+- compare: determines if a number is greather or not that its right neighbour
+- swap: exhanges two numbers
+- lap: verifies if there are stil numbers to be order
 
-![GitHub Logo](/bubble.png)
-Format: ![Alt Text](url)
+![Bubble](/bubble.png)
 
 
 ### Sumarize
