@@ -24,6 +24,10 @@ This is how the *turing machine* was coded. If we want it to sort any given list
 Therefore, this functions were implemented in the *bubble* files:
 - 
 
+![GitHub Logo](//home/miguel/Downloads/bubble.png)
+Format: ![Alt Text](url)
+
+
 ### Sumarize
 
 The class *bubble* inherits all the attributes and functions of its parent class *turing*. Both explaned previously.
